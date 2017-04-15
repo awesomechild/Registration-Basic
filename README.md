@@ -3,7 +3,7 @@ Database yet not configured
 
 
 
-Whats left -- 
-Two php pages are not configured
-found a free web hosting service today
-This project should be up and running by next week
+login.php will take the credentials of 000webhost.com
+I'll do it tomorrow
+
+its already 3:51 in the morning
