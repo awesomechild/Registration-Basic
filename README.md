@@ -1,9 +1,4 @@
 # Registration-Basic
 Database yet not configured
 
-
-
-login.php will take the credentials of 000webhost.com
-I'll do it tomorrow
-
-its already 3:51 in the morning
+Passwords are saved in plain text. Later i will try to keep the passwords encrypted
